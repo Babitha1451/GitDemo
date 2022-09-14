@@ -18,6 +18,7 @@ public class Class3 {
 		if(a[i]<min)
 		{
 			min=a[i];
+			System.out.println("this is the asian guy chnages");
 		}
 		
 	}

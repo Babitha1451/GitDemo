@@ -10,6 +10,7 @@ public class Class2 {
 		
 		//System.out.append(0)
  System.out.println("this is the asian guy chnages");
+ System.out.println("this is the asian guy chnages");
 		
 	
 	}
